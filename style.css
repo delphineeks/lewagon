@@ -9,7 +9,7 @@ h1{
   font-size: 30px;
 }
 h2 {
-  color: #F93943;
+  color: #F1D6AB;
   font-weight: lighter;
   font-size: 25px;
 }
@@ -66,5 +66,5 @@ a:hover {
 }
 
 #footer a:hover {
-  color: #7EB2DD;
+  color: #F1D6AB;
 }
