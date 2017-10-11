@@ -1,12 +1,11 @@
 body{
-  background-image:url(images/landcape.jpg);
-  background-size: cover;
+  background-color: blue;
   font-family:"Roboto Condensed", sans-serif;
   
 }
 
 h1{
-  color: #efbcd5;
+  color: #F93943;
   font-weight: bolder;
   font-size: 30px;
 }
