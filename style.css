@@ -1,0 +1,73 @@
+body{
+  background-image:url(images/landcape.jpg);
+  background-size: cover;
+  font-family:"Roboto Condensed", sans-serif;
+  
+}
+
+h1{
+  color: #efbcd5;
+  font-weight: bolder;
+  font-size: 30px;
+}
+h2 {
+  color: #16425b;
+  font-weight: lighter;
+  font-size: 25px;
+}
+a {
+  color: blue;
+}
+
+p {
+  color: #f9dbbd;
+}
+a:hover {
+  text-decoration: none;
+  color: white;
+}
+#banner {
+  background-image:url(images/landscape.jpg);
+  background-size: cover;
+  padding: 30px;
+  margin-bottom: 10px;
+  text-shadow: 1px 2px 3px black;
+  text-align: center;
+  border: 3px solid #b8d3d1;
+  border-radius: 10px;
+}
+#banner h1{
+  font-size: 50px;
+}
+
+#banner p{
+  font-size: 20px;
+}
+.card{
+  text-align: center;
+  background-color: #b8d3d1;
+  border-radius: 10px;
+  margin-bottom:10px;
+  padding: 5px;
+}
+
+.card p{
+  color:#6b717e;
+  font-size: 17px;
+}
+.card i{
+	font-size:100px;
+}
+#footer{
+	background-color: black;
+	text-align: center;
+}
+
+#footer a{
+	color: red;
+	font-size: 40px;
+}
+
+#footer a:hover {
+  color: white;
+}
